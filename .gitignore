@@ -1,0 +1,9 @@
+*~
+src/twitter
+examples/example
+examples/credential.json
+nimcache/
+*.swp
+twitter
+test.jpg
+test.mp4
